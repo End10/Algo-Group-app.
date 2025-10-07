@@ -15,7 +15,6 @@ class IntStack:
     # this stack can only hold integers from 0-9, which is a large limitation
 
     plate = 1.12
-    digitHolder = 0
 
     def init(self):# initialize step for class
         pass
