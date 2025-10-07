@@ -52,5 +52,5 @@ s1.plate = s1.push(s1.plate, 3)
 s1.showPlate(s1.plate)
 s1.size(s1.plate)
 s1.peek(s1.plate)
-s1.plate = s1.pop(s1.plate)#very irritating that pop doesnt seem to change the variable
+s1.plate = s1.pop(s1.plate)
 s1.showPlate(s1.plate)#woah there seems to be some sort of bit error when calculating. final showPlate function returns 5.112000000000001 (weird)
